@@ -11,7 +11,9 @@
 
 ## Project Groups
 
-* [AI & Machine Learning](project-groups/ai-and-machine-learning.md)
+* [Artificial Intelligence](project-groups/artificial-intelligence/README.md)
+  * [Machine Learning](project-groups/artificial-intelligence/machine-learning.md)
+  * [Computer Vision](project-groups/artificial-intelligence/computer-vision.md)
 
 ## Research
 
