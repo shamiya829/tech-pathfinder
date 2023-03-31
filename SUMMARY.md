@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Tech Pathfinder](README.md)
+## Tech Pathfinder
+
+* [About Us](README.md)
+* [Our Team](tech-pathfinder/our-team.md)
+* [Contact Us](tech-pathfinder/contact-us.md)
 
 ## Internships
 
@@ -14,11 +18,13 @@
 * [Artificial Intelligence](project-groups/artificial-intelligence/README.md)
   * [Machine Learning](project-groups/artificial-intelligence/machine-learning.md)
   * [Computer Vision](project-groups/artificial-intelligence/computer-vision.md)
+* [Game Developement](project-groups/game-developement.md)
 
 ## Research
 
-* [High School](research/high-school.md)
+* [High School](research/summer.md)
 
 ## Entrepreneurship
 
 * [VC & Accelerators](entrepreneurship/vc-and-accelerators.md)
+* [Startup Teams](entrepreneurship/startup-teams.md)
