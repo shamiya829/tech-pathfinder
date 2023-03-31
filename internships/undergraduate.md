@@ -1,3 +1,10 @@
+---
+description: >-
+  Looking for an exciting summer program that will help you develop your skills
+  and interests? Check out these amazing opportunities that are perfect for
+  undergraduate students:
+---
+
 # Undergraduate
 
 <details>
