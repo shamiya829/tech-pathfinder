@@ -19,10 +19,14 @@
   * [Machine Learning](project-groups/artificial-intelligence/machine-learning.md)
   * [Computer Vision](project-groups/artificial-intelligence/computer-vision.md)
 * [Game Developement](project-groups/game-developement.md)
+* [Robotics](project-groups/robotics.md)
 
 ## Research
 
 * [High School](research/summer.md)
+* [Undergraduate](research/undergraduate.md)
+* [Masters & PhD](research/masters-and-phd.md)
+* [Postdoctoral](research/postdoctoral.md)
 
 ## Entrepreneurship
 
