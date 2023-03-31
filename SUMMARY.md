@@ -17,8 +17,7 @@
 
 * [VC & Accelerators](entrepreneurship/vc-and-accelerators.md)
 * [Startup Teams](entrepreneurship/startup-teams.md)
-  * [Quantum Computing](entrepreneurship/startup-teams/quantum-computing.md)
-  * [AI Products](entrepreneurship/startup-teams/ai-products.md)
+  * [Artificial Intelligence](entrepreneurship/startup-teams/artificial-intelligence.md)
   * [Web3](entrepreneurship/startup-teams/web3.md)
 
 ## Project Groups
