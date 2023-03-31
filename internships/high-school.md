@@ -6,6 +6,25 @@ description: >-
 
 # High School
 
-## Free Summer Programs/Paid Internships
+## Summer Programs
 
-<table><thead><tr><th>Program</th><th>Eligibility</th><th>Keywords</th><th data-type="select">Type</th></tr></thead><tbody><tr><td> <strong>Anson L. Clark Scholars Program</strong></td><td>HS juniors/seniors</td><td>summer, research, stipend, computer science</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<details>
+
+<summary>Paid/Stipend Research</summary>
+
+* [The Anson L. Clark Scholars Program](https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/)
+
+<!---->
+
+* [Army Educational Outreach Program (AEOP) High School Apprenticeship](https://www.usaeop.com/program/high-school-apprenticeships/)
+
+<!---->
+
+*
+
+
+
+
+
+</details>
+

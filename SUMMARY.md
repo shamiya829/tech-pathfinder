@@ -10,14 +10,13 @@
 ## Internships
 
 * [High School](internships/high-school.md)
-* [Summer After High School](internships/summer-after-high-school.md)
 * [Undergraduate](internships/undergraduate.md)
 * [Graduate](internships/graduate.md)
 
 ## Entrepreneurship
 
 * [VC & Accelerators](entrepreneurship/vc-and-accelerators.md)
-* [Startup Teams](entrepreneurship/startup-teams/README.md)
+* [Startup Teams](entrepreneurship/startup-teams.md)
   * [Quantum Computing](entrepreneurship/startup-teams/quantum-computing.md)
   * [AI Products](entrepreneurship/startup-teams/ai-products.md)
   * [Web3](entrepreneurship/startup-teams/web3.md)
