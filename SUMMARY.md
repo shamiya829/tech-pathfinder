@@ -16,7 +16,7 @@
 
 ## Entrepreneurship
 
-* [VC & Accelerators](entrepreneurship/vc-and-accelerators.md)
+* [Accelerators](entrepreneurship/accelerators.md)
 * [Startup Teams](entrepreneurship/startup-teams.md)
   * [Artificial Intelligence](entrepreneurship/startup-teams/artificial-intelligence.md)
   * [Web3](entrepreneurship/startup-teams/web3.md)
