@@ -1,3 +1,9 @@
+---
+description: >-
+  If you're a graduate student looking for an exciting internship opportunity,
+  check out these amazing listings:
+---
+
 # Graduate
 
 <details>
