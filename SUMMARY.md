@@ -3,7 +3,8 @@
 ## Tech Pathfinder
 
 * [About Us](README.md)
-* [Our Team](tech-pathfinder/our-team.md)
+* [Our Team](tech-pathfinder/our-team/README.md)
+  * [Join Us](tech-pathfinder/our-team/join-us.md)
 * [Contact Us](tech-pathfinder/contact-us.md)
 * [Talent Network](tech-pathfinder/talent-network.md)
 
