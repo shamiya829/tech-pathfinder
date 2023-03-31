@@ -7,7 +7,7 @@ description: >-
 
 # About Us
 
-<figure><img src=".gitbook/assets/cropped.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cropped.png" alt=""><figcaption><p>leveraging technology to maximize your potential</p></figcaption></figure>
 
 At Tech Pathfinders, we're on a mission to empower individuals pursuing a career in the technology industry by providing them with the resources they need to navigate their career path. We believe that everyone should have the opportunity to pursue their passion and build a successful career in technology, regardless of their background or experience.
 
