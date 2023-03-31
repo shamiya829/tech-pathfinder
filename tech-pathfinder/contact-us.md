@@ -6,4 +6,6 @@ description: >-
 
 # Contact Us
 
-## Social Media Platforms
+## Join Our Community
+
+Discord -&#x20;
