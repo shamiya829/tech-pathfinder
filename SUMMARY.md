@@ -39,3 +39,8 @@
 * [Undergraduate](research/undergraduate.md)
 * [Masters & PhD](research/masters-and-phd.md)
 * [Postdoctoral](research/postdoctoral.md)
+
+## Competitions
+
+* [Datathons](competitions/datathons.md)
+* [Miscellaneous](competitions/miscellaneous.md)
