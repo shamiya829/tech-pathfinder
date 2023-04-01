@@ -26,6 +26,16 @@ Email:&#x20;
 **Estella Xie**
 
 Email:&#x20;
+
+
+
+**Niannu Gao**
+
+[Email](mailto:ngao516@outlook.com)
+{% endtab %}
+
+{% tab title="Project Leaders" %}
+
 {% endtab %}
 
 {% tab title="Editors & Contributors" %}
@@ -36,3 +46,4 @@ Email:&#x20;
 
 {% endtab %}
 {% endtabs %}
+
