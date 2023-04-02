@@ -11,7 +11,7 @@ description: >-
 {% tab title="Founding Team" %}
 **Shamiya Lin**
 
-Email: \[firstname] \[at] utexas.edu
+Email: \[firstname] \[at] utexas \[dot] edu
 
 LinkedIn: [https://www.linkedin.com/in/shamiyal/](https://www.linkedin.com/in/shamiyal/)
 
